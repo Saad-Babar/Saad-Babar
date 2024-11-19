@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 (and fixing them faster every day!).<br>📚 I'm currently learning Android App Development.<br>🎯 Goals: Master full-stack technologies, and contribute to meaningful open-source projects.<br>🎲 Fun fact: I treat every project like a puzzle waiting to be solved.</p>
+<p align="left">✨ Creating bugs since 2021 (and fixing them faster every day!).<br><br>📚 I'm currently learning Android App Development.<br><br>🎯 Goals: Master full-stack technologies, and contribute to meaningful open-source projects.<br><br>🎲 Fun fact: I treat every project like a puzzle waiting to be solved.</p>
 
 ###
 
